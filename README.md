@@ -1,10 +1,10 @@
-# the_calculator_walkthrough
+# The Calculator Walkthrough
 An exercise in programming to help hone your skills through practice and repetition.
 This notebook is a complete walkthrough with notes and explanations. It can be used as a reference, a study guide and provide one possible answer that you can use to compare with your attempt. This notebook is too long to be a [CodeKatas](http://codekata.com/) but aspires to similar principles. 
 
 ## CodeKata Principles
 
-With CodeKatas, you are trying to 'solve' a problem AND follow the best practices of the programming language.   With a CodeKata, there are no right or wrong answers: the benefit comes from the process, not from the result. See [Awesome Katas] for a curated list of CodeKatas see [Awesome Katas](https://github.com/gamontal/awesome-katas). For Python CodeKatas see [here](https://github.com/clair3st/code-katas).
+With CodeKatas, you are trying to solve a problem and follow the best practices of the programming language.   There are no right or wrong answers. The benefit comes from the process, not from the result. See [Awesome Katas] for a curated list of CodeKatas see [Awesome Katas](https://github.com/gamontal/awesome-katas). For Python CodeKatas see [here](https://github.com/clair3st/code-katas).
 
 ## What are *our* Best Practices
 
