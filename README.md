@@ -10,7 +10,7 @@ With CodeKatas, you are trying to solve a problem and follow the best practices 
 
 Here are the best practices we have been applying throughout the course.
 
-1. Create a code repository (*GitHub, small frequent commits*)
+1. Use a code repository (*GitHub, small frequent commits*)
 2. Follow style guidelines (*PEP8*)
 3. Correct broken code immediately (*exception handling, input validation, testing*)
 4. Use the PyPI instead of doing it yourself (*import module*)
