@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michael-borck/the_calculator_walkthrough.git/HEAD?filepath=calcultor_best.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michael-borck/the_calculator_walkthrough.git/HEAD?labpath=calculator_best.ipynb)
 
 # The Calculator Walkthrough
 An exercise in programming to help hone your skills through practice and repetition.
